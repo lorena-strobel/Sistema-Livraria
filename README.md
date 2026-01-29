@@ -21,7 +21,6 @@ Um sistema de cadastro e gestão de livros desenvolvido em Java
 - **LivroDigital**: Especialização para livros digitais
 - **CadastroLivrosApp**: Classe principal do sistema
 - **Teclado**: Utilitário para entrada de dados
---
 
 ---
 
