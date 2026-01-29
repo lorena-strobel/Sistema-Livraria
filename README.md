@@ -2,19 +2,6 @@
 
 Um sistema de cadastro e gestão de livros desenvolvido em Java
 
-## 🏗️ Estrutura do Projeto
-
-src/
-├── br/com/livroteca/sys/app/
-│ └── CadastroLivrosApp.java
-├── br/com/livroteca/sys/modelo/
-│ ├── Livro.java
-│ ├── LivroDigital.java
-│ └── LivroFisico.java
-└── br/com/livroteca/sys/teclado/
-└── Teclado.java
-
-
 ## 📋 Funcionalidades
 
 - ✅ Cadastro de livros
@@ -36,9 +23,6 @@ src/
 - **Teclado**: Utilitário para entrada de dados
 --
 
-*Esse Projeto acadêmico foi desenvolvido para a segunda prova da disciplina de Programação Orientada a Objetos*
-
-
 ---
 
-*Projeto acadêmico desenvolvido para estudos em Java e POO.*
+*Esse Projeto acadêmico foi desenvolvido para a segunda prova da disciplina de Programação Orientada a Objetos*
