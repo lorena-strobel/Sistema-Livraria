@@ -1,4 +1,4 @@
-# 📚 Sistema de Gerenciamento de Livros
+# Sistema de Livraria em JAVA
 
 Um sistema de cadastro e gestão de livros desenvolvido em Java
 
@@ -8,11 +8,6 @@ Um sistema de cadastro e gestão de livros desenvolvido em Java
 - ✅ Distinção entre livros físicos e digitais
 - ✅ Entrada de dados via teclado
 - ✅ Organização por categorias
-
-## 🎯 Tecnologias
-
-- Java
-- Git/GitHub
 
 ## 📁 Classes Principais
 
